@@ -1,0 +1,7 @@
+#include<stdio.h>
+ int main(){
+  printf("NAME:PAGLA GHORA\n");
+  printf("DATE OF BIRTH: 01-01-2001\n");
+  printf("MOBILE: 01534567811\n");
+ return 0;
+ }
